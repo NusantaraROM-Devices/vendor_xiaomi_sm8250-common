@@ -39,6 +39,7 @@ property Name is called. -->
                 <Prop Name="vendor.perf.performancemode.support" Value="true" />
                 <Prop Name="ro.vendor.at_library" Value="libqti-at.so" />
                 <Prop Name="vendor.perf.topAppRenderThreadBoost.enable" Value="false" />
+                <Prop Name="ro.vendor.qti.sys.fw.bg_apps_limit" Value="48" />
 
     </PerfConfigs>
 </PerfConfigsStore>
